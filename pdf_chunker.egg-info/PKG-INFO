@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: pdf-chunker
+Version: 0.1.0
+Summary: CLI tool for processing PDF documents into JSONL chunks
+Author: Charounik
+Requires-Python: >=3.10
+Requires-Dist: click==8.1.7
+Requires-Dist: PyMuPDF==1.27.2.2
+Requires-Dist: langchain-text-splitters==1.1.1
+Dynamic: author
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
